@@ -5,7 +5,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Building Project...'
+                echo 'Build Started from Updated File...'
             }
         }
 
